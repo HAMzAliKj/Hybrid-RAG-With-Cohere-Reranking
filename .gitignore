@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+Swarm_Intelligence/
+workflow.excalidraw
+
 
 # C extensions
 *.so
